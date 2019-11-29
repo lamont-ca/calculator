@@ -76,7 +76,7 @@
             this.Add.Name = "Add";
             this.Add.Size = new System.Drawing.Size(178, 55);
             this.Add.TabIndex = 3;
-            this.Add.Text = "Add";
+            this.Add.Text = "Adder";
             this.Add.UseVisualStyleBackColor = true;
             this.Add.Click += new System.EventHandler(this.Add_Click);
             // 
@@ -98,7 +98,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(178, 55);
             this.button1.TabIndex = 5;
-            this.button1.Text = "Subtract";
+            this.button1.Text = "Subtracter";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
@@ -109,7 +109,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(178, 55);
             this.button2.TabIndex = 6;
-            this.button2.Text = "Multiply";
+            this.button2.Text = "Multiplier";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
