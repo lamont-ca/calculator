@@ -1,1 +1,2 @@
 I am the second new feature
+I am a new line added to feature 2
