@@ -1,2 +1,4 @@
 I am the second new feature
 I am a new line added to feature 2
+Add 3rd line to feature 2
+add 4th line to feature 2
